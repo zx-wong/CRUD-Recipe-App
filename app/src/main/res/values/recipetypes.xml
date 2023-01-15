@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Food Recipe</string>
+
+    <string-array name="recipeTypes" >
+
+        <item> Chicken </item>
+        <item> Pork </item>
+        <item> Beef </item>
+        <item> Lamb </item>
+        <item> Pasta </item>
+        <item> Seafood </item>
+        <item> Soup </item>
+
+    </string-array>
+
+    <string-array name="recipeImg" >
+
+        <item> Roast Chicken Picture </item>
+        <item> Roasted Pork Loin Picture </item>
+        <item> Meatloaf Picture </item>
+        <item> Grilled Lamb Chop Picture </item>
+        <item> Chicken Casserole Picture </item>
+        <item> Grilled Salmon Picture </item>
+        <item> Chicken Soup Picture </item>
+
+    </string-array>
+
+</resources>
